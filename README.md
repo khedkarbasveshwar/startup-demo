@@ -1,4 +1,4 @@
 # startup-demo
 this is my first repository
 <br>
-Author-Basaveshwar Khedkar
+Author-Basaveshwar (khedkar)
